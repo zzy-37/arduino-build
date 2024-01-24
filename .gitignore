@@ -1,0 +1,11 @@
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.a
+
+env.sh
+
+Minicore/
+arduino-esp32/
